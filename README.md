@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @krishdalal
-- 👀 I’m interested in Systems & Controls
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any of the following topics:
--             1. Hybrid Actuators for Nonlinear Attitude/Position Control Problems of Spacecraft
--             2. Application of Deep Learning in Control Systems
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently working with React
 - 📫 How to reach me : krishdalal2002@gmail.com
