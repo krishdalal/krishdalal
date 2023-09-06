@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @krishdalal
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working with React
+- 👀 I’m interested in CyberSecurity and ML
+- 🌱 I’m currently working with ReactJS
 - 📫 How to reach me : krishdalal2002@gmail.com
