@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @krishdalal
-- 👀 I’m interested in CyberSecurity and ML
-- 🌱 I’m currently working with ReactJS
+- 🌱 I’m currently working at PayPal as a Software Engineer
+- 👀 I’m interested in Web Development and ML
 - 📫 How to reach me : krishdalal2002@gmail.com
